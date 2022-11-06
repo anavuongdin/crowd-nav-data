@@ -3,7 +3,7 @@ ENVIRONMENT:
 
 SIMULATOR:
   COLLIDE_DIST: 0.1
-  NUMBER_OF_BOTS: 6
+  NUMBER_OF_BOTS: 12
   BOT_PATH: "../../crowd-nav-data/entities/locobot_merged_"
   BOT_CONFIG_PATH: "../../crowd-nav-data/crowd-nav/bot_config_v1.0"
   BOT_TRAJECTORY: [0.1, 0.1, 1.0, 1.0, 0.392, 0.392]
